@@ -1,3 +1,3 @@
 ## Weitere Sammlungen
 
-* [Git](/git)
+* [Git](/git/)

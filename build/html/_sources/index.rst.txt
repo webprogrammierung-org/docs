@@ -9,6 +9,7 @@ Willkommen bei webprogrammierung.org's Dokumentation!
 .. toctree::
    :maxdepth: 2
 
+   Weitere_Sammlungen.md
    Installieren/index.rst
    Server/index.rst
    Programmiersprachen_Lernen/index.rst
