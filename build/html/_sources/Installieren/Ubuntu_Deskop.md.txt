@@ -22,7 +22,7 @@ source  /etc/bash.bashrc
 ```
 sudo apt update
 sudo apt upgrade
-sudo apt-get install cmake gcc clang gdb build-essential
+sudo apt-get install cmake gcc clang gdb build-essential git-core
 
 
 ```
