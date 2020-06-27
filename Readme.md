@@ -54,7 +54,7 @@ html_theme = "sphinx_rtd_theme"
 * Installieren Sie den Markdown-Parser recommonmark:
 
 ```
-pip install --upgrade recommonmark
+pip3 install --upgrade recommonmark
 
 ```
 
